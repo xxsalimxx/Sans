@@ -1,0 +1,1 @@
+{ "name": "InstaFonts", "short_name" : "InstaFonts", "icons": [{ "src": "/instafonts_logo.png", "sizes": "512x512", "type": "image/png" }], "start_url": "/", "theme_color": "#ffffff", "background_color": "#ffffff", "display": "standalone" }
